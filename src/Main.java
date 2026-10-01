@@ -1,4 +1,4 @@
-// TODO: musimy dodac brakujace klasy!
+// TODO: musimy dodac brakujace
 
 // OK, ja dodam ‘Adder‘, a s35629 doda ‘Subtractor‘
 
