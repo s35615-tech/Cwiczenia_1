@@ -1,6 +1,6 @@
 // TODO: musimy dodac brakujace klasy!
 
-// OK, ja dodam ‘Adder‘, a s35629 doda ‘Subtractor‘
+// OK, ja dodam ‘Adder‘, a s35629 doda
 
 public class Main {
     public static void main(String[] args) {
